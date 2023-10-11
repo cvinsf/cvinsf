@@ -7,10 +7,10 @@
 
 🎯 Interested in full stack development and backend development with Node.js and SQL / NoSQL.
 
-🎤 Recently held a tech talk on Containers: <a>https://www.linkedin.com/posts/carlosvillarrealsb_virtualization-containers-docker-activity-7018426379591442433-rfRP?utm_source=share&utm_medium=member_desktop<a/>
+🎤 Recently held a tech talk on Containers: https://www.linkedin.com/posts/carlosvillarrealsb_virtualization-containers-docker-activity-7018426379591442433-rfRP?utm_source=share&utm_medium=member_desktop
 
 🚧 Currently working on DenoGres, a complete ORM for PostgreSQL on the Deno runtime: https://denogres.deno.dev/
 
 🔧 Interested in contributing to open source tools that revolve around Python, Node, React, and TypeScript.
 
-🔗 Connect with me on GitHub: https://github.com/cvinsf | | Visit my profile: https://www.villarreal.social
+🔗 Follow me on GitHub and Check out my portfolio: https://www.villarreal.social
