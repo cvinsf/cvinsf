@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Carlos. I have a background in statistics and math but software engineering was my first love. 
+Hi there 👋 - I'm Carlos. I have a background in statistics and math but software engineering was my first love. 
 
 
 👨‍💻 Software engineer experienced in designing, building, and deploying scalable web applications.
